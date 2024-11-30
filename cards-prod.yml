@@ -2,7 +2,7 @@ build:
   version: "1.0-snapshot-prod"
 
 cards:
-  resources: "You can create prod cards resources and AWS in PROD."
+  resources: "You can create prod cards resources and AWS in PRODUCTION."
   accessBilling:
     access: "give access to prod cards"
     billing: "no billing requires to access prod cards"
