@@ -1,0 +1,11 @@
+build:
+  version: "1.0-snapshot-uat"
+
+loans:
+  resources: "You can create uat loans resources and AWS in UAT."
+  accessBilling:
+    access: "give access to uat loans"
+    billing: "no billing requires to access uat loans"
+  identityManagement:
+    identity: "pavan.kobagana@loansuat.com"
+    password: "Openstack@1"

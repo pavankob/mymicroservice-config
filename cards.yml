@@ -1,0 +1,11 @@
+build:
+  version: "1.0-snapshot-local"
+
+cards:
+  resources: "You can create a local cards resources and AWS locally."
+  accessBilling:
+    access: "give access to local cards"
+    billing: "no billing requires to access cards locally"
+  identityManagement:
+    identity: "pavan.kobagana@cardslocal.com"
+    password: "Openstack1"

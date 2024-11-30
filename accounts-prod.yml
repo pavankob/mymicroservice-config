@@ -1,0 +1,11 @@
+build:
+  version: "1.0-snapshot-prod"
+
+accounts:
+  resources: "You can create prod accounts resources and AWS in PROD."
+  accessBilling:
+    access: "give access to prod accounts"
+    billing: "no billing requires to access prod accounts"
+  identityManagement:
+    identity: "pavan.kobagana@accountsprod.com"
+    password: "Openstack@1994"

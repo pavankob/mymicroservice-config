@@ -1,0 +1,11 @@
+build:
+  version: "1.0-snapshot-uat"
+
+accounts:
+  resources: "You can create uat accounts resources and AWS in UAT."
+  accessBilling:
+    access: "give access to uat accounts"
+    billing: "no billing requires to access uat accounts"
+  identityManagement:
+    identity: "pavan.kobagana@accountsuat.com"
+    password: "Openstack@1"

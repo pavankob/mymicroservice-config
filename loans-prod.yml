@@ -1,0 +1,11 @@
+build:
+  version: "1.0-snapshot-prod"
+
+loans:
+  resources: "You can create prod loans resources and AWS in PROD."
+  accessBilling:
+    access: "give access to prod loans"
+    billing: "no billing requires to access prod loans"
+  identityManagement:
+    identity: "pavan.kobagana@loansprod.com"
+    password: "Openstack@1994"

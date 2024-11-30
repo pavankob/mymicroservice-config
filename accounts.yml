@@ -1,0 +1,11 @@
+build:
+  version: "1.0-snapshot-local"
+
+accounts:
+  resources: "You can create a local accounts resources and AWS locally."
+  accessBilling:
+    access: "give access to local accounts"
+    billing: "no billing requires to access accounts locally"
+  identityManagement:
+    identity: "pavan.kobagana@accountslocal.com"
+    password: "Openstack1"

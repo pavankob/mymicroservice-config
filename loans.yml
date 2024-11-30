@@ -1,0 +1,11 @@
+build:
+  version: "1.0-snapshot-local"
+
+loans:
+  resources: "You can create a local loans resources and AWS locally."
+  accessBilling:
+    access: "give access to local loans"
+    billing: "no billing requires to access loans locally"
+  identityManagement:
+    identity: "pavan.kobagana@loanslocal.com"
+    password: "Openstack1"

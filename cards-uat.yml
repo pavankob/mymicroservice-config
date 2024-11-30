@@ -1,0 +1,11 @@
+build:
+  version: "1.0-snapshot-uat"
+
+cards:
+  resources: "You can create uat cards resources and AWS in UAT."
+  accessBilling:
+    access: "give access to uat cards"
+    billing: "no billing requires to access uat cards"
+  identityManagement:
+    identity: "pavan.kobagana@cardsuat.com"
+    password: "Openstack@1"
