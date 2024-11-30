@@ -8,4 +8,4 @@ accounts:
     billing: "no billing requires to access prod accounts"
   identityManagement:
     identity: "pavan.kobagana@accountsprod.com"
-    password: "Openstack@1994"
+    password: "{cipher}32a6ae252cfd607f5647802f6f7cd925668c92a0eb2d7071eb5d6aa49478bf60"
