@@ -2,7 +2,7 @@ build:
   version: "1.0-snapshot-prod"
 
 accounts:
-  resources: "You can create prod accounts resources and AWS in PRODUCTION."
+  resources: "You can create prod accounts resources and AWS in production."
   accessBilling:
     access: "give access to prod accounts"
     billing: "no billing requires to access prod accounts"
